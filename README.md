@@ -2,14 +2,14 @@
   **My First **
 
 <h1>Objectifs</h1>
-- - -
+
 <ul>
     <li>Explorer le language HTML</li>
     <li>Comprendre le lien entre le markdown et le HTML</li>
 </ul>
-
+<br/>
 <h1>Instructions</h1>
-- - -
+
 <ul>
     
     <li>Créer toi un repository GitHub markdown-warmup-html</li>
