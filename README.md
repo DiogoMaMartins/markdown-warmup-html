@@ -6,7 +6,7 @@
 - Comprendre le lien entre le markdown et le HTML
 - And understand git
 
-**This is  a History how to be educated.
+**This is  a History how to be educated.**
 
 
 [My Markdown DiogoMartins](https://diogomamartins.github.io/markdown-warmup-html/)
@@ -22,4 +22,4 @@
 
 
 
-                                                                                                       **11/09/2018
+                                                               **11/09/2018
