@@ -1,5 +1,5 @@
 
-**This exercise was done as a team ,we grew up this story**                                                **11/09/2018
+**This exercise was done as a team ,we grew up this story                                            
 **With the  Objectifs
 
 - Explorer le language HTML
@@ -10,3 +10,16 @@
 
 
 [My Markdown DiogoMartins](https://diogomamartins.github.io/markdown-warmup-html/)
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                       **11/09/2018
