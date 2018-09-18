@@ -1,6 +1,6 @@
 
-**This exercise was done as a team ,we grew up this story                                            
-**With the  Objectifs
+**This exercise was done as a team ,we grew up this story   **                                         
+**With the  Objectifs**
 
 - Explorer le language HTML
 - Comprendre le lien entre le markdown et le HTML
@@ -22,4 +22,4 @@
 
 
 
-                                                               **11/09/2018
+                                                               **11/09/2018**
